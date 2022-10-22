@@ -1,0 +1,82 @@
+Introduction to JavaScript + Setup | JavaScript Tutorial in Hindi #1
+const, let and var in JavaScript | JavaScript Tutorial in Hindi #3
+Variables in JavaScript | JavaScript Tutorial in Hindi #2
+Primitives and Objects in JavaScript | JavaScript Tutorial in Hindi #4
+JavaScript Operators and Expressions | JavaScript Tutorial in Hindi #6
+JavaScript  Chapter 1 - Practice Set | JavaScript Tutorial in Hindi #5
+Conditional expressions in JavaScript | JavaScript Tutorial in Hindi #7
+JavaScript Chapter 2 - Practice Set on Operators and Conditionals | JavaScript Tutorial in Hindi #8
+For Loops in JavaScript | JavaScript Tutorial in Hindi #9
+Functions in JavaScript | JavaScript Tutorial in Hindi #11
+JavaScript Chapter 3 - Practice Set on Loops and Functions | JavaScript Tutorial in Hindi #12
+Introduction to Strings | JavaScript Tutorial in Hindi #13
+While Loops in JavaScript | JavaScript Tutorial in Hindi #10
+JavaScript Array Methods | JavaScript Tutorial in Hindi #17
+JavaScript Chapter 4 - Practice Set on Strings | JavaScript Tutorial in Hindi #15
+Introduction to Arrays | JavaScript Tutorial in Hindi #16
+Using Loops With Arrays in JavaScript | JavaScript Tutorial in Hindi #19
+JavaScript String Methods | JavaScript Tutorial in Hindi #14
+Some More JavaScript Array Methods | JavaScript Tutorial in Hindi #18
+Map, Filter & Reduce in JavaScript | JavaScript Tutorial in Hindi #20
+JavaScript Chapter 5 - Practice Set on Arrays | JavaScript Tutorial in Hindi #21
+JavaScript in the Browser | JavaScript Tutorial in Hindi #23
+JavaScript Console Object | JavaScript Tutorial in Hindi #25
+JavaScript Script Tag | JavaScript Tutorial in Hindi #24
+Exercise 1 - Guess the Number | JavaScript Tutorial in Hindi #22
+DOM, BOM & Window Object | JavaScript Tutorial in Hindi #28
+JavaScript Exercise 1: Solution & Shoutouts | JavaScript Tutorial in Hindi #26
+JavaScript Chapter 6 - Practice Set | JavaScript Tutorial in Hindi #29
+Walking the DOM | JavaScript Tutorial in Hindi #31
+JavaScript alert, prompt & confirm | JavaScript Tutorial in Hindi #27
+Exercise 2 - Snake, Water and Gun| JavaScript Tutorial in Hindi #30
+Accessing Children of an Element | JavaScript Tutorial in Hindi #32
+Element only Navigation | JavaScript Tutorial in Hindi #34
+Parents & Siblings of an Element | JavaScript Tutorial in Hindi #33
+Table Navigation | JavaScript Tutorial in Hindi #35
+Searching the DOM | JavaScript Tutorial in Hindi #36
+Exercise 3 - Tell me a Joke | JavaScript Tutorial in Hindi #40
+JavaScript Exercise 2: Solution & Shoutouts | JavaScript Tutorial in Hindi #39
+matches, closest and contains | JavaScript Tutorial in Hindi #37
+JavaScript Chapter 7 - Practice Set | JavaScript Tutorial in Hindi #38
+innerHTML, outerHTML and other properties | JavaScript Tutorial in Hindi #41
+HTML Attributes and their methods | JavaScript Tutorial in Hindi #42
+HTML Insertion Methods | JavaScript Tutorial in Hindi #43
+insertAdjacentHTML, insertAdjacentElement and insertAdjacentText  | JavaScript Tutorial in Hindi #44
+Changing HTML Classes using JavaScript: className and classList | JavaScript Tutorial in Hindi #45
+setInterval and setTimeout in JavaScript | JavaScript Tutorial in Hindi #46
+Handling Browser Events | JavaScript Tutorial in Hindi #48
+JavaScript Chapter 8 - Practice Set | JavaScript Tutorial in Hindi #49
+Introduction to Browser Events | JavaScript Tutorial in Hindi #47
+Exercise 3: Solution & Shoutouts | JavaScript Tutorial in Hindi #50
+Exercise 4: Clock using JavaScript | JavaScript Tutorial in Hindi #51
+Introduction to Callbacks | JavaScript Tutorial in Hindi #52
+Callback Hell & Pyramid of Doom | JavaScript Tutorial in Hindi #53
+Introduction to Promises | JavaScript Tutorial in Hindi #54
+Promise .then() and .catch() | JavaScript Tutorial in Hindi #55
+Promise Chaining .then() calls | JavaScript Tutorial in Hindi #56
+Attaching Multiple Handlers to a Promise | JavaScript Tutorial in Hindi #57
+The Promise API | JavaScript Tutorial in Hindi #58
+Async/Await in JavaScript | JavaScript Tutorial in Hindi #59
+Error Handling: try and catch | JavaScript Tutorial in Hindi #60
+JavaScript Chapter 9 - Practice Set  | JavaScript Tutorial in Hindi #63
+The Finally Clause | JavaScript Tutorial in Hindi #62
+Exercise 5: Hackerman | JavaScript Tutorial in Hindi #65
+The Error Object & Custom Errors | JavaScript Tutorial in Hindi #61
+Fetch API | JavaScript Tutorial in Hindi #66
+Sending POST request with Fetch API | JavaScript Tutorial in Hindi #67
+Exercise 4: Solutions & Shoutouts | JavaScript Tutorial in Hindi #64
+Cookies in JavaScript| JavaScript Tutorial in Hindi #68
+localStorage & related methods | JavaScript Tutorial in Hindi #69
+sessionStorage & related methods | JavaScript Tutorial in Hindi #70
+JavaScript Chapter 10 - Practice Set | JavaScript Tutorial in Hindi #71
+Exercise 6: Todo List | JavaScript Tutorial in Hindi #73
+Exercise 5: Solutions & Shoutouts | JavaScript Tutorial in Hindi #72
+Introduction to Object Oriented Programming | JavaScript Tutorial in Hindi #74
+Inheritance & extends Keyword in JavaScript | JavaScript Tutorial in Hindi #78
+Constructors in JavaScript | JavaScript Tutorial in Hindi #77
+Protypes and __proto__ in JavaScript | JavaScript Tutorial in Hindi #75
+Constructors in JavaScript | JavaScript Tutorial in Hindi #79
+Classes and Objects in JavaScript | JavaScript Tutorial in Hindi #76
+getters, setters & instanceOf Operator | JavaScript Tutorial in Hindi #82
+Constructors in JavaScript | JavaScript Tutorial in Hindi #80
+Static Method in JavaScript | JavaScript Tutorial in Hindi #81

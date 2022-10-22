@@ -1,0 +1,18 @@
+{
+  "name": "project_youtube_palylist_title_extractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:3": "run index.js; do node index.js; done"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.8",
+    "puppeteer": "^19.1.0",
+    "random-useragent": "^0.5.0"
+  }
+}
